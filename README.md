@@ -9,6 +9,6 @@ then run the main executable, ```tw```, by specifying the text file you want to 
 
 ```./tw  data/0011.txt```
 
-or if you want to specify the number of top words to display e.g.
+or if you want to specify the number of top words to display:
 
 ```./tw  20  data/0011.txt```
